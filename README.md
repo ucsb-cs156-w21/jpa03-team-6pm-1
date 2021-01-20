@@ -1,6 +1,8 @@
 # STARTER-lab03
 
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-1/branch/main/graph/badge.svg?token=DK0aCTuk5o)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-1)
+
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa03` above
   to match the name of your repo, i. e., `jpa03-yourgithubid`, then delete
@@ -84,6 +86,3 @@ This section serves as a quick reference for values found in these files:
 | `spring.datasource.username`                                      | Yes          | Should always be `${JDBC_DATABASE_USERNAME}`                              |
 | `spring.datasource.password`                                      | Yes          | Should always be `${JDBC_DATABASE_PASSWORD}`                              |
 | `spring.jpa.hibernate.ddl-auto`                                   | Yes          | Should always be `update`                                                 |
-
-
-[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-1/branch/main/graph/badge.svg?token=DK0aCTuk5o)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-1)
